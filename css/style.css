@@ -1,0 +1,11 @@
+header h1{
+margin-left: 300px;
+}
+body{
+    background-color: rgb(209, 141, 51);
+}
+.card{
+width: 400px;
+align-items: center;
+margin: 400px;
+}
